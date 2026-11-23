@@ -1,4 +1,4 @@
-# Your Full Name — Developer Portfolio
+# Atul Chaudhary — Developer Portfolio
 
 > B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
 
